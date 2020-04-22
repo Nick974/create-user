@@ -11,4 +11,4 @@ bash create-user.sh [FILE]
 
 En l'absence de \<FILE>, le nom d'utilisateur et le mot de passe seront à saisir.  
 Le fichier \<FILE> doit contenir des lignes au format \<user>;\<passwd>  
-Les mots de passe sont clair -> fichier à ne pas laisser traîner ;)  
+Les mots de passe sont en clair -> fichier à ne pas laisser traîner ;)  
